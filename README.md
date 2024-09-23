@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a results-driven IT professional based in Toro
 - **Data Center Design**: Designing a scalable data center prototype for a car sales company to improve operational efficiency.
 
 ## 📄 Resume
-- **[Download my Resume](./Resume.pdf)** (../Resume.pdf)
+- **[Download my Resume](./Resume.pdf)** (https://github.com/aasim-ansari-8898/Aasim/blob/main/Resume.pdf)
 
 ## 📫 Get in Touch
 - **Email**: [aasim.ansari.8898@gmail.com](mailto:aasim.ansari.8898@gmail.com)
